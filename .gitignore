@@ -1,0 +1,35 @@
+# Virtual environment
+ai/
+venv/
+env/
+Lib/
+Scripts/
+bin/
+Include/
+pyvenv.cfg
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Browser driver binaries
+chromedriver.exe
+geckodriver.exe
+
+# Streamlit or temporary files
+.streamlit/
+*.sqlite3
